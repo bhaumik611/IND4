@@ -44,11 +44,11 @@ This project aims to estimate house prices (in Lakhs) using historical housing d
 | SQUARE_FT | Area in square feet |
 | READY_TO_MOVE | 1 if ready to move |
 | RESALE | 1 if resale property |
-| City_Tier | Tier 2 (Metro) or Tier 1 (Non-metro) |
+| City_Tier | Tier 1 (Metro) or Tier 2 (Non-metro) |
 
 ### 🏙️ City Tier Logic
-- **Tier 2 (Metro cities)**: Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, Pune, Kolkata, Ahmedabad
-- **Tier 1**: All other cities
+- **Tier 1 (Metro cities)**: Mumbai, Delhi, Bengaluru, Chennai, Hyderabad, Pune, Kolkata, Ahmedabad
+- **Tier 2**: All other cities
 
 ---
 
@@ -58,7 +58,6 @@ This project aims to estimate house prices (in Lakhs) using historical housing d
 - HTML
 - CSS
 - JavaScript
-- (Optional: React / Bootstrap)
 
 ### Backend
 - Python
